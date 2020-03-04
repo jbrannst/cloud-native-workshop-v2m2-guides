@@ -22,5 +22,4 @@ modules:
   - workshop-environment
   - advanced-cloud-native-services
   - implementing-cd
-  - debugging-apps
   - apps-monitoring
